@@ -1,7 +1,8 @@
 # 👀 João Carlos de Lima P.
 **`Desenvolvedor em formação`**
 
-Sou estudante de Desenvolvimento de Sistemas na Etec Bento Quirino e utilizo este perfil para compartilhar alguns projetos ¯\ (°_o) /¯.
+Sou estudante de Desenvolvimento de Sistemas na Etec Bento Quirino e utilizo este perfil para compartilhar alguns projetos 
+¯\ (°_o) /¯.
 
 
 <p align="center">
