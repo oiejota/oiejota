@@ -10,10 +10,13 @@ Sou estudante de Desenvolvimento de Sistemas na **ETEC Bento Quirino** e utilizo
 
 ---
 
+<div align="center">
+
 <p align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=oiejota&show_icons=true&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oiejota&layout=compact&theme=dracula" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=oiejota&theme=dracula&hide_border=true" />
 </p>
+
+</div>
 
 ---
 
