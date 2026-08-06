@@ -17,7 +17,6 @@ Sou estudante de Desenvolvimento de Sistemas na **ETEC Bento Quirino** e utilizo
 
 ---
 
+![Snake animation](https://github.com/oiejota/oiejota/blob/output/github-contribution-grid-snake.svg)
 
-<p align="center">
-  <img src="https://github.com/oiejota/oiejota/blob/output/github-contribution-grid-snake.svg" />
-</p>
+[![João's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=oiejota&theme=github)](https://github.com/oiejota)
