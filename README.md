@@ -1,13 +1,16 @@
-# 👀 João Carlos de Lima P.
-**`Desenvolvedor em formação`**
+## 🐍 Contribuições
 
-Sou estudante de Desenvolvimento de Sistemas na Etec Bento Quirino e utilizo este perfil para compartilhar alguns projetos <br>
-¯\ (°_o) /¯.
-
-
-<p align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=oiejota&show=languages&theme=dracula" />
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=oiejota&theme=dracula" />
-</p>
-
-![Snake animation](https://github.com/oiejota/oiejota/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/oiejota/oiejota/blob/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/oiejota/oiejota/blob/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake animation"
+    src="https://github.com/oiejota/oiejota/blob/output/github-contribution-grid-snake.svg"
+  />
+</picture>
