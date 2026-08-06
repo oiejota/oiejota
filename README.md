@@ -8,19 +8,6 @@ Sou estudante de Desenvolvimento de Sistemas na **ETEC Bento Quirino** e utilizo
   ¯\_(ツ)_/¯
 </p>
 
-<p align="center">
-
-  <img src="https://img.shields.io/github/followers/oiejota?style=for-the-badge&color=6D28D9&labelColor=6D28D9" />
-
-  <img src="https://img.shields.io/github/stars/oiejota/SafeNest?style=for-the-badge&color=B91C1C&labelColor=B91C1C" />
-
-  <img src="https://img.shields.io/github/watchers/oiejota/SafeNest?style=for-the-badge&color=6D28D9&labelColor=6D28D9" />
-
-  <a href="mailto:joaolimaguarniere@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email-B91C1C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=B91C1C" />
-  </a>
-
-</p>
 ---
 
 
