@@ -9,13 +9,19 @@ Sou estudante de Desenvolvimento de Sistemas na **ETEC Bento Quirino** e utilizo
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/commit-activity/m/oiejota/oiejota?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/oiejota/SafeNest?style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/oiejota?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Repos&query=public_repos&url=https://api.github.com/users/oiejota" />
+
+  <img src="https://img.shields.io/github/followers/oiejota?style=for-the-badge&color=6D28D9" />
+
+  <img src="https://img.shields.io/github/public-repos/oiejota?style=for-the-badge&color=B91C1C" />
+
+  <img src="https://img.shields.io/github/commit-activity/m/oiejota/oiejota?style=for-the-badge&color=6D28D9" />
+
+  <img src="https://img.shields.io/github/created-at/oiejota?style=for-the-badge&color=B91C1C" />
+
   <a href="mailto:joaolimaguarniere@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
 </p>
 ---
 
