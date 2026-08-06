@@ -1,4 +1,4 @@
-# 👋 João Carlos de Lima P.
+# 👀  João Carlos de Lima P.
 
 **`Desenvolvedor em formação`**
 
@@ -17,29 +17,7 @@ Sou estudante de Desenvolvimento de Sistemas na **ETEC Bento Quirino** e utilizo
 
 ---
 
-## 💻 Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,nodejs,express,react,supabase,mysql,git,github,c,cpp,arduino,vscode,figma" />
-</p>
-
----
-
-## 🐍 Contribuições
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github.com/oiejota/oiejota/blob/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github.com/oiejota/oiejota/blob/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub contribution snake animation"
-      src="https://github.com/oiejota/oiejota/blob/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
+  <img src="https://github.com/oiejota/oiejota/blob/output/github-contribution-grid-snake.svg" />
 </p>
